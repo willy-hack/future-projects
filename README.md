@@ -11,4 +11,5 @@
         - [自訂義函數集成](./code/version-1/function.py)
         - [HSV數值調整程序](./code/version-1/HSV_adj.py)
         - [主程序啟動模塊](./code/version-1/open_mode.py)
+        - [Raspberry pi pico 程序](./code/version-1/)
     - version - 2 __[]__
