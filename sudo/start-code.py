@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import Jetson.GPIO as GPIO
 import time
 import subprocess
